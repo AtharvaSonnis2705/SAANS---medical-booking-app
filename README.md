@@ -1,4 +1,4 @@
-<img width="586" height="252" alt="image" src="https://github.com/user-attachments/assets/4b10bfcd-b465-46a0-b260-45e4e24fabdb" />SAANS- the medical booking appointment app
+SAANS- the medical booking appointment app
 
 Full-Stack Doctor Appointment System (MERN) Developed a comprehensive, full-stack (MERN) application to streamline medical appointment scheduling, management, and payments
 
